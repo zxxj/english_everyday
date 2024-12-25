@@ -94,7 +94,7 @@ thanks man // 谢谢你,伙计
 ## 文章对话
 
 ```js
-A: My caot and my umbella plaese // 请把我的外套和雨伞拿给我
+A: My caot and my umbrella plaese // 请把我的外套和雨伞拿给我
 A: Here is my ticket // 这是我的票
 A: thank you sir // 谢谢你,先生
 A: Number five // 五号
